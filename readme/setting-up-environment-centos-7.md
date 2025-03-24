@@ -325,7 +325,7 @@ kubectl -n kubernetes-dashboard create token admin-user
 
 ### Set up Visualiser
 ```
-git clone https://github.com/submah/kubernetes.git
+git clone https://github.com/advikarya/kubernetes.git
 kubectl apply -f kubernetes/kubernetes-ops-view/deploy
 ```
 [Output]
